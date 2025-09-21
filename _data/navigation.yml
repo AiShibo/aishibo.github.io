@@ -11,17 +11,17 @@ main:
   - title: "Education"
     url: /#education
 
-  - title: "Research Experience"
-    url: /#research-experiemce
+  - title: "Research"
+    url: /#research
 
-  - title: "Teaching Experience"
-    url: /#teaching-experience
+  - title: "Teaching"
+    url: /#teaching
 
   - title: "Awards and Research Funding"
-    url: /#cv
+    url: /#awards-and-research-funding
     
-  - title: "Misc"
-    url: /#cv
+# ---
+# - title: "Misc"
+#   url: /#misc
+# ---
 
-  - title: "Guide"
-    url: /markdown/
