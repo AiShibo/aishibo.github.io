@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Thank for coming by! My name is Shibo Ai (艾诗博) and I am an undergraduate research assistant at the [University of British Columbia](https://www.ubc.ca), with [Dr. Hugo Lefeuvre](https://owl.eu.com/about.html) and [Professor. Margo Sentzer](https://www.seltzer.com/margo/). I will graduate in May 2026.
+Thank for coming by! My name is Shibo Ai (艾诗博) and I am an undergraduate research assistant at the [University of British Columbia](https://www.ubc.ca), with [Dr. Hugo Lefeuvre](https://owl.eu.com/about.html) and [Professor. Margo Seltzer](https://www.seltzer.com/margo/). I will graduate in May 2026.
 
 I love systems research! I am interested in operating systems, security and programming language. Specifically, I work on discovering new
 computer system vulnerabilities, mitigating known vulnerabilities through systematic approaches, and designing safe-by-design
