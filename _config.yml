@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Shibo the AI"
+title                    : "Shibo Ai"
 title_separator          : "-"
 name                     : &name "Shibo Ai"
 description              : &description "Shibo's website"   # Update this with a general description of your site, this is the default if not overridden by a page

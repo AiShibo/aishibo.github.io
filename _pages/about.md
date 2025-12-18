@@ -16,14 +16,19 @@ operating system vulnerabilities, systematic approaches for mitigation, and desi
 
 ### I am currently applying for a research Master's or a Ph.D. program, starting fall 2026.
 
+---
+
+### News
+- Humbled to Receive CRA Outstanding Undergraduate Researcher Award Honorable Mention!
+
 
 ## Education
 
 - **BSc, Major in Computer Science**, The University of British Columbia (2022 – 2026)  
-  *GPA: 4.14/4.33*
+  *GPA: 90.5/100*
 
 - **First Year of BSc** Western University (2021 – 2022)  
-  *GPA: 3.93/4.0*
+  *GPA: 90.6/100*
 
 
 ## Research
@@ -43,6 +48,7 @@ operating system vulnerabilities, systematic approaches for mitigation, and desi
 
 ## Awards and Research Funding
 
+- **Honorable Mention, CRA Outstanding Undergraduate Researcher Award** - Dec 2025
 - **Outstanding International Student Award** — Sept 2022  
 - **Work Learn International Undergraduate Research Award** — Jun 2024  
 - **Work Learn International Undergraduate Research Award** — Jun 2025  
