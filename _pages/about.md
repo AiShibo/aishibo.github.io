@@ -19,7 +19,7 @@ operating system vulnerabilities, systematic approaches for mitigation, and desi
 ---
 
 ### News
-- Humbled to Receive an Honorable Mention for the CRA Outstanding Undergraduate Researcher Award!
+- Humbled to Receive Honorable Mention for the CRA Outstanding Undergraduate Researcher Award!
 
 
 ## Education
