@@ -49,7 +49,7 @@ operating system vulnerabilities, systematic approaches for mitigation, and desi
 ## Awards and Research Funding
 
 - **Honorable Mention, CRA Outstanding Undergraduate Researcher Award** - Dec 2025
-- **Outstanding International Student Award** — Sept 2022  
-- **Work Learn International Undergraduate Research Award** — Jun 2024  
 - **Work Learn International Undergraduate Research Award** — Jun 2025  
+- **Work Learn International Undergraduate Research Award** — Jun 2024  
+- **Outstanding International Student Award** — Sept 2022  
 
