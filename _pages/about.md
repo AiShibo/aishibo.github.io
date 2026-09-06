@@ -23,11 +23,9 @@ I love systems research! I am interested in operating systems, security and prog
 
 - **Ph.D. Student (Current)**, [EPFL](https://www.epfl.ch/) (Sept 2026 – ongoing)
 
-- **BSc, Major in Computer Science**, The University of British Columbia (2022 – 2026)  
-  *GPA: 90.5/100*
+- **BSc, Major in Computer Science**, The University of British Columbia (2022 – 2026)
 
-- **First Year of BSc** Western University (2021 – 2022)  
-  *GPA: 90.6/100*
+- **First Year of BSc** Western University (2021 – 2022)
 
 
 ## Research
