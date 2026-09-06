@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Shibo Ai"
 title_separator          : "-"
 name                     : &name "Shibo Ai"
-description              : &description "Shibo's website"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Shibo Ai is a Ph.D. student in EPFL's HexHive lab, advised by Mathias Payer, researching operating systems and software and systems security."
 url                      : https://shibo.ca # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.jpeg"
   name             : "Shibo Ai"
   pronouns         : "He/Him"
-  bio              : # "Short biography for the left-hand sidebar"
-  location         : "Vancouver"
-  employer         : "University of British Columbia"
+  bio              : "Ph.D. student in the HexHive lab"
+  location         : "Lausanne, Switzerland"
+  employer         : "EPFL"
   uri              : # URL
-  email            : "asnicoria@gmail.com" 
+  email            : "shibo.ai@epfl.ch"
 
   # Academic websites
   academia         : # URL

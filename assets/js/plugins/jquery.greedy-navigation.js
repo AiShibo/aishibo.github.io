@@ -27,10 +27,10 @@ function updateNav() {
       // Move item to the hidden list
       $vlinks.children("*:not(.persist)").last().prependTo($hlinks);
 
-      availableSpace = $btn.hasClass("hidden") ? $nav.width() : $nav.width() - $btn.width() - 30;
-
       // Show the dropdown btn
       $btn.removeClass("hidden");
+
+      availableSpace = $nav.width() - $btn.width() - 30;
     }
 
     // The visible list is not overflowing
@@ -74,9 +74,11 @@ function updateNav() {
 $(window).on('resize', function () {
   updateNav();
 });
-screen.orientation.addEventListener("change", function () {
-  updateNav();
-});
+if (screen.orientation && typeof screen.orientation.addEventListener === "function") {
+  screen.orientation.addEventListener("change", function () {
+    updateNav();
+  });
+}
 
 $btn.on('click', function () {
   $hlinks.toggleClass('hidden');

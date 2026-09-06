@@ -8,21 +8,20 @@ redirect_from:
 ---
 
 
-My name is Shibo Ai (艾诗博) and I am an undergraduate research assistant at the [University of British Columbia](https://www.ubc.ca), with [Prof. Margo Seltzer](https://www.seltzer.com/margo/) and [Dr. Hugo Lefeuvre](https://owl.eu.com/about.html). I will graduate in May 2026.
+My name is Shibo Ai (艾诗博), and I am a Ph.D. student at [EPFL](https://www.epfl.ch/) in the [HexHive lab](https://hexhive.epfl.ch/), advised by [Prof. Mathias Payer](https://nebelwelt.net/).
 
-I love systems research! I am interested in operating systems, security and programming language. Specifically, I work on uncovering new
-operating system vulnerabilities, systematic approaches for mitigation, and designing safe systems. 
-
-
-### I am currently applying for a research Master's or a Ph.D. program, starting fall 2026.
+I love systems research! I am interested in operating systems, security and programming language. Specifically, I work on uncovering new operating system vulnerabilities, systematic approaches for mitigation, and designing safe systems.
 
 ---
 
 ### News
+- I have joined [EPFL](https://www.epfl.ch/) as a Ph.D. student in [Prof. Mathias Payer](https://nebelwelt.net/)'s [HexHive lab](https://hexhive.epfl.ch/)!
 - Humbled to Receive Honorable Mention for the CRA Outstanding Undergraduate Researcher Award!
 
 
 ## Education
+
+- **Ph.D. Student (Current)**, [EPFL](https://www.epfl.ch/) (Sept 2026 – ongoing)
 
 - **BSc, Major in Computer Science**, The University of British Columbia (2022 – 2026)  
   *GPA: 90.5/100*
@@ -32,6 +31,9 @@ operating system vulnerabilities, systematic approaches for mitigation, and desi
 
 
 ## Research
+
+- **Doctoral Research Assistant (Current)**, [HexHive lab](https://hexhive.epfl.ch/), [EPFL](https://www.epfl.ch/) (Sept 2026 – ongoing)\
+  Supervisor: [Mathias Payer](https://nebelwelt.net/)
 
 - **Undergraduate Research Assistant**, [Systopia Group](https://systopia.cs.ubc.ca/), The University of British Columbia (Jan – Dec 2025)  
   Supervisors: [Margo Seltzer](https://www.seltzer.com/margo/), [Hugo Lefeuvre](https://owl.eu.com/)
@@ -52,4 +54,3 @@ operating system vulnerabilities, systematic approaches for mitigation, and desi
 - **Work Learn International Undergraduate Research Award** — Jun 2025  
 - **Work Learn International Undergraduate Research Award** — Jun 2024  
 - **Outstanding International Student Award** — Sept 2022  
-
