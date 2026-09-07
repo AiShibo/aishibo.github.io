@@ -61,11 +61,10 @@ Working from a different OS, or just want to avoid installing dependencies? You 
 You can build and execute the container by running the following command in the repository:
 
 ```bash
-chmod -R 777 .
-docker compose up
+docker compose up --build
 ```
 
-You should now be able to access the website from `localhost:4000`.
+You should now be able to access the website at <http://localhost:4000>. Changes to the source are rebuilt automatically. Press `Ctrl+C` to stop the server, or run `docker compose down` from another terminal.
 
 ### Using the DevContainer in VS Code
 

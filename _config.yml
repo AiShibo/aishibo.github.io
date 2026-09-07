@@ -23,7 +23,7 @@ repository               : "AiShibo/aishibo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "personal_picture.png"
   name             : "Shibo Ai"
   pronouns         : "He/Him"
   bio              : "Ph.D. student in the HexHive lab"

@@ -12,24 +12,27 @@ RUN apt-get update && apt-get install -y \
 RUN groupadd -g 1000 vscode && \
     useradd -m -u 1000 -g vscode vscode
 
-# Set the working directory
-WORKDIR /usr/src/app
+# Keep container dependencies outside the bind-mounted source tree.
+WORKDIR /opt/jekyll
 
-# Set permissions for the working directory
-RUN chown -R vscode:vscode /usr/src/app
+RUN chown -R vscode:vscode /opt/jekyll
 
 # Switch to the non-root user
 USER vscode
 
-# Copy Gemfile into the container (necessary for `bundle install`)
-COPY Gemfile ./
+# Gemfile.lock is intentionally ignored by this repository, so resolve the
+# container's dependency set in an isolated location that is not shadowed by
+# the source bind mount.
+COPY --chown=vscode:vscode Gemfile ./
+ENV BUNDLE_GEMFILE=/opt/jekyll/Gemfile
 
 
 
 # Install bundler and dependencies
 RUN gem install connection_pool:2.5.0
-RUN gem install bundler:2.3.26
 RUN bundle install
+
+WORKDIR /usr/src/app
 
 # Command to serve the Jekyll site
 CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w", "--config", "_config.yml,_config_docker.yml"]
