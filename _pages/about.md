@@ -15,6 +15,7 @@ I love systems research! I am interested in operating systems, security and prog
 ---
 
 ### News
+- Our publication, "[Characterizing and Detecting Bugs at the Interfaces of OpenBSD Privilege-Separated Programs](/publications/)", has been accepted by CCS 2026!
 - I have joined [EPFL](https://www.epfl.ch/) as a Ph.D. student in [Prof. Mathias Payer](https://nebelwelt.net/)'s [HexHive lab](https://hexhive.epfl.ch/)!
 - Humbled to Receive Honorable Mention for the CRA Outstanding Undergraduate Researcher Award!
 

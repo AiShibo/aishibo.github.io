@@ -19,9 +19,11 @@ main:
 
   - title: "Awards and Research Funding"
     url: /#awards-and-research-funding
+
+  - title: "Publications"
+    url: /publications/
     
 # ---
 # - title: "Misc"
 #   url: /#misc
 # ---
-
