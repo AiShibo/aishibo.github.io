@@ -15,7 +15,7 @@ I love systems research! I am interested in operating systems, security and prog
 ---
 
 ### News
-- Our paper, "[Characterizing and Detecting Bugs at the Interfaces of OpenBSD Privilege-Separated Programs](/publications/)", has been accepted by CCS 2026!
+- Our paper, “[Characterizing and Detecting Bugs at the Interfaces of OpenBSD Privilege-Separated Programs](/publications/),” was accepted to CCS 2026 and won the Distinguished Paper Award!
 - I have joined [EPFL](https://www.epfl.ch/) as a Ph.D. student in [Prof. Mathias Payer](https://nebelwelt.net/)'s [HexHive lab](https://hexhive.epfl.ch/)!
 - Humbled to Receive Honorable Mention for the CRA Outstanding Undergraduate Researcher Award!
 
@@ -45,11 +45,3 @@ I love systems research! I am interested in operating systems, security and prog
 - **Teaching Assistant** ([CPSC 312](https://steven-wolfman.github.io/cpsc-312-website-2024W1/)), The University of British Columbia   
   (Jun - Aug 2024)   
   Instructor: [Steve Wolfman](https://www.cs.ubc.ca/~wolf/)
-
-
-## Awards and Research Funding
-
-- **Honorable Mention, CRA Outstanding Undergraduate Researcher Award** - Dec 2025
-- **Work Learn International Undergraduate Research Award** — Jun 2025  
-- **Work Learn International Undergraduate Research Award** — Jun 2024  
-- **Outstanding International Student Award** — Sept 2022  
